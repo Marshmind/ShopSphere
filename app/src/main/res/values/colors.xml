@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#D0BCFF</color>
+    <color name="onPrimary">#381E72</color>
+    <color name="primaryContainer">#4F378B</color>
+    <color name="onPrimaryContainer">#EADDFF</color>
+
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#1C1B1F</color>
+    <color name="onSurfaceVariant">#49454F</color>
+    <color name="outline">#79747E</color>
+
+    <color name="priceGreen">#4CAF50</color>
+    <color name="ratingYellow">#FFEB3B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="cardDarkBackground">#121212</color>
+
+    <!-- Legacy compatibility -->
+    <color name="colorPrimary">#6750A4</color>
+    <color name="priceColor">#4CAF50</color>
+    <color name="textPrimary">#1C1B1F</color>
+    <color name="textSecondary">#49454F</color>
+</resources>
