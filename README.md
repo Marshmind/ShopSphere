@@ -27,5 +27,15 @@ ShopSphere is an Android product catalog application developed using Kotlin and 
 ## Public API Used
 https://dummyjson.com/products
 
+## Screenshots
+
+### Home Screen
+![Home](screenshots/home.jpg)
+
+### Search Feature
+![Search](screenshots/search.jpg)
+
+### Product Details
+![Details](screenshots/details.jpg)
 ## Author
 Marshal John
