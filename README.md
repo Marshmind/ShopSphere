@@ -37,5 +37,12 @@ https://dummyjson.com/products
 
 ### Product Details
 ![Details](screenshots/details.jpg)
+
+## APK Download
+
+You can download and test the application using the APK below:
+
+https://drive.google.com/file/d/1xTQvrYVfFIFJtjAx_Wkwg-XPRY36zGbd/view?usp=sharing
+
 ## Author
 Marshal John
